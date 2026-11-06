@@ -77,6 +77,6 @@ The project uses the following visualizations:
 This project provides an understanding of the different factors associated with student academic performance. Through Exploratory Data Analysis and visualization, the project helps identify patterns and relationships between student characteristics and exam scores.
 
 ## Author
-**Your Name**
+Greeshma Kolli
 
 Aspiring Data Analyst
